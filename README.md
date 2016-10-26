@@ -11,3 +11,5 @@ ls
 cd
 mkdir
 ~~~
+
+test
